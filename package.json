@@ -1,0 +1,30 @@
+{
+  "name": "recluse",
+  "version": "1.0.0",
+  "description": "Responder bot for twitter",
+  "main": "recluse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broketech/recluse.git"
+  },
+  "keywords": [
+    "twitter",
+    "corn",
+    "furry",
+    "not",
+    "a",
+    "furry"
+  ],
+  "author": "bob",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/broketech/recluse/issues"
+  },
+  "homepage": "https://github.com/broketech/recluse#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
